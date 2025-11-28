@@ -1,7 +1,3 @@
 title: "Daily"
 description: "This is a personal website for daily records."
 theme: jekyll-theme-minimal
-
-# 프로젝트 페이지라서 필요한 설정
-url: "https://sandwolfshiroko516.github.io"
-baseurl: "/Daily"
